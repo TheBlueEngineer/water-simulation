@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\facultate anul 3\acg\hws\homework 2 - waves\gameengine\gameengine\main.cpp(163): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\facultate anul 3\acg\hws\homework 2 - waves\gameengine\gameengine\main.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\facultate anul 3\acg\hws\homework 2 - waves\gameengine\gameengine\main.cpp(243): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\facultate anul 3\acg\hws\homework 2 - waves\gameengine\gameengine\main.cpp(245): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\facultate anul 3\acg\hws\homework 2 - waves\gameengine\gameengine\main.cpp(267): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\facultate anul 3\acg\hws\homework 2 - waves\gameengine\gameengine\main.cpp(392): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\facultate anul 3\acg\hws\homework 2 - waves\gameengine\gameengine\main.cpp(398): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  GameEngine.vcxproj -> D:\Facultate anul 3\ACG\Hws\Homework 2 - Waves\GameEngine\Debug\GameEngine.exe
